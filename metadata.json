@@ -1,0 +1,33 @@
+{
+  "author": "Boaventura Rodrigues Neto",
+  "checksums": {
+    ".vagrant/machines/precise64/virtualbox/id": "3b7001b5cd2b6f8170ac5a585b2947e7",
+    ".vagrant/machines/precise64/virtualbox/index_uuid": "325360550a2fbbeaf9db7b74803aa1ef",
+    "README": "48c20557d81f003bbb4ffb20ade82532",
+    "Modulefile": "48d4668840784adeb2af95c37abc65ea",
+    ".vagrant/machines/trusty64/virtualbox/index_uuid": "c36e4df1605969bef4b2b79e2df45289",
+    "tests/init.pp": "50bb5cfe555f87a07e69d9cd60ac4fe6",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    ".vagrant/machines/trusty64/virtualbox/action_set_name": "629fdeea95c9936ea38b7a49ad1cf65c",
+    "LICENSE": "6c4db32a2fa8717faffa1d4f10136f47",
+    ".vagrant/machines/precise64/virtualbox/action_set_name": "b5fc268083cc24966edfb1bd2f5a6e16",
+    ".vagrant/machines/trusty64/virtualbox/action_provision": "0d7119a21275ad370cc3c7d6e4dd0ab7",
+    ".vagrant/machines/trusty64/virtualbox/id": "2f49ecbc26f6aab298151efa7f53baa8",
+    ".vagrant/machines/precise64/virtualbox/action_provision": "4b35b6fcd2a416b0f0ee079966a24465",
+    "manifests/init.pp": "5c74edab7e204b0c9667c2e762a27f3b",
+    "Vagrantfile": "b5237a42ae09138cf3797fa2847743bb",
+    "vagrant_ubuntu_bootstrap.sh": "1903d343b00cabf5baf6ab13068de7df",
+    ".vagrant/machines/trusty64/virtualbox/synced_folders": "88b8db6f795dc1666f04f44716f93ac4",
+    ".vagrant/machines/precise64/virtualbox/synced_folders": "88b8db6f795dc1666f04f44716f93ac4",
+    "README.md": "4895eb30a2cda5b9562b120093a704bd"
+  },
+  "dependencies": [],
+  "description": "Module to install and manages Zabbix via puppet",
+  "license": "Apache License, Version 2.0",
+  "name": "brodriguesneto-zabbix",
+  "project_page": "https://github.com/brodriguesneto/puppet-zabbix.git",
+  "source": "https://github.com/brodriguesneto/puppet-zabbix.git",
+  "summary": "Module to install and manages Zabbix via puppet",
+  "types": [],
+  "version": "0.1.0"
+}
